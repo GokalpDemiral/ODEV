@@ -1,0 +1,6 @@
+Kullanılan araçlar:
+VisualCode
+Yardım Alınan Siteler:
+W3SCHOOLS
+
+İlk önce VisualStudio kurulumu yapıyoruz sonrasında hangi web sitesi yapılıcaksa örnek olan web sitesinin sayfasını açıyoruz incele yaparak örnek web sitesinin htmls css ve js klasörleri oluşturuyoruz ve bu şekilde içeriğnini doldurarak sitemizi tamamlıyoruz.
